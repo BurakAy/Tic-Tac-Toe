@@ -1,3 +1,5 @@
+#Below program sample from http://rosettacode.org/wiki/Tic-tac-toe#Ruby
+
 require 'set'
  
 module TicTacToe
